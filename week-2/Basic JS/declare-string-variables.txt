@@ -1,0 +1,2 @@
+var myFirstName = "xhesika"
+var myLastName = "kajacka"
